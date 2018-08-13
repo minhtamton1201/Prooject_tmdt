@@ -1,6 +1,6 @@
-/obj/*
-/.vscode/*
-/Error.log
-/Data/Migrations/*
-/database/db.rar
-/bin/*
+obj/*
+.vscode/*
+Error.log
+Data/Migrations/*
+database/db.rar
+bin/*

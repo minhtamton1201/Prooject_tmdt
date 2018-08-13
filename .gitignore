@@ -1,6 +1,6 @@
-bin/
-.vscode/
-obj/
+bin/*
+.vscode/*
+obj/*
 database/db.rar
 Error.log
-Data/Migrations/
+Data/Migrations/*

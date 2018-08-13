@@ -22,3 +22,15 @@ D:\QuanLyBanSach-20180811T024644Z-001\QuanLyBanSach\obj\Debug\netcoreapp2.0\Quan
 D:\QuanLyBanSach-20180811T024644Z-001\QuanLyBanSach\obj\Debug\netcoreapp2.0\QuanLyBanSach.AssemblyInfo.cs
 D:\QuanLyBanSach-20180811T024644Z-001\QuanLyBanSach\obj\Debug\netcoreapp2.0\QuanLyBanSach.dll
 D:\QuanLyBanSach-20180811T024644Z-001\QuanLyBanSach\obj\Debug\netcoreapp2.0\QuanLyBanSach.pdb
+D:\ASPNET\Prooject_tmdt\bin\Debug\netcoreapp2.0\QuanLyBanSach.deps.json
+D:\ASPNET\Prooject_tmdt\bin\Debug\netcoreapp2.0\QuanLyBanSach.runtimeconfig.json
+D:\ASPNET\Prooject_tmdt\bin\Debug\netcoreapp2.0\QuanLyBanSach.runtimeconfig.dev.json
+D:\ASPNET\Prooject_tmdt\bin\Debug\netcoreapp2.0\QuanLyBanSach.dll
+D:\ASPNET\Prooject_tmdt\bin\Debug\netcoreapp2.0\QuanLyBanSach.pdb
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.csprojAssemblyReference.cache
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.AssemblyInfoInputs.cache
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.AssemblyInfo.cs
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.dll
+D:\ASPNET\Prooject_tmdt\obj\Debug\netcoreapp2.0\QuanLyBanSach.pdb
